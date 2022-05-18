@@ -1,8 +1,7 @@
-package com.akis_yazilim.oracle.melih.product.controller;
+package com.akis_yazilim.postgre.admin.product.controller;
 
-import com.akis_yazilim.oracle.melih.product.model.entity.Product;
-import com.akis_yazilim.oracle.melih.product.model.service.AbstractProductService;
-import com.akis_yazilim.oracle.melih.product.model.service.ProductService;
+import com.akis_yazilim.postgre.admin.product.model.entity.Product;
+import com.akis_yazilim.postgre.admin.product.model.service.AbstractProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
